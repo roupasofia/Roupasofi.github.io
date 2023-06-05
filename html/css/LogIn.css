@@ -1,0 +1,33 @@
+div{
+    background-color: rgba(0, 0, 0, 0.3);
+    position: absolute;
+    top: 48%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    padding: 80px;
+    border-radius: 15px;
+    color: #ffffff;
+}
+input{
+    padding: 15px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+}
+button{
+    background-color: #2b2a29;
+    border: none;
+    padding: 15px;
+    width: 100%;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+}
+button:hover{
+    background-color: #f26522;
+    cursor: pointer;
+}
+img{
+    width: 325px;
+    position: absolute;
+}
